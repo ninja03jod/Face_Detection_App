@@ -1,0 +1,6 @@
+tensorflow
+tf-keras
+opencv-python
+matplotlib
+deepface
+retina-face
